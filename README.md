@@ -10,4 +10,5 @@ The project helps to shortlist the best employee who is eligible for getting pro
 - Test data contains
 - Data includes the features such as employee_id, department, education, awards_won, age, gender etc.
 
-  
+## **Screenshot of the project application**
+  https://github.com/divyabm02/HR_Analytics/issues/1#issue-791304289
