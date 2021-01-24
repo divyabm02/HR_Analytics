@@ -10,4 +10,4 @@ The project helps to shortlist the best employee who is eligible for getting pro
 - Test data contains
 - Data includes the features such as employee_id, department, education, awards_won, age, gender etc.
 
-  
+  ![alt text](ui_screenshot.png)
