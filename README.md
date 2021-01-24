@@ -12,7 +12,7 @@ The project helps to shortlist the best employee who is eligible for getting pro
 - Data includes the features such as employee_id, department, education, awards_won, age, gender etc.
 
 ### **Project pppt**
-https://sjcacblr-my.sharepoint.com/:p:/r/personal/19bda71052_sjcacblr_onmicrosoft_com/_layouts/15/Doc.aspx?sourcedoc=%7B2AA4F087-763B-4C6B-940B-6D232569A3CF%7D&file=Biz_Plan_template%20V1.ppt&action=edit&mobileredirect=true
+<div>https://sjcacblr-my.sharepoint.com/:p:/r/personal/19bda71052_sjcacblr_onmicrosoft_com/_layouts/15/Doc.aspx?sourcedoc=%7B2BD58C71-9903-4B89-9466-0C9C0507F9A5%7D&file=HR_Analytics.pptx&action=edit&mobileredirect=true&PreviousSessionID=0445b632-21b1-e436-8fd3-511defc47264&cid=b692b5bd-4d6a-475a-9a99-e293d66f361f</div>
 
  ### **Screenshot of the project application**
  ![alt text](ui_screenshot.png)
